@@ -1,0 +1,6 @@
+c:\users\jon\documents\visual studio 2015\Projects\PatrónStrategy2\PatrónStrategy2\bin\Debug\PatrónStrategy2.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\PatrónStrategy2\PatrónStrategy2\bin\Debug\PatrónStrategy2.exe
+c:\users\jon\documents\visual studio 2015\Projects\PatrónStrategy2\PatrónStrategy2\bin\Debug\PatrónStrategy2.pdb
+c:\users\jon\documents\visual studio 2015\Projects\PatrónStrategy2\PatrónStrategy2\obj\Debug\PatrónStrategy2.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\PatrónStrategy2\PatrónStrategy2\obj\Debug\PatrónStrategy2.exe
+c:\users\jon\documents\visual studio 2015\Projects\PatrónStrategy2\PatrónStrategy2\obj\Debug\PatrónStrategy2.pdb
